@@ -71,8 +71,8 @@ and an IPv6-only upstream (NAT64/DNS64).
 ## Installation
 
 ```bash
-git clone https://github.com/staatsrat/torkeep.git
-cd torkeep
+git clone https://github.com/staatsrat/tor_keep.git
+cd tor_keep
 sudo install -m 0755 torkeep.py /usr/local/bin/torkeep
 ```
 
