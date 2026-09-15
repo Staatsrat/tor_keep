@@ -1,4 +1,3 @@
-
 ```
 ████████╗ ██████╗ ██████╗ ██╗  ██╗███████╗███████╗██████╗
 ╚══██╔══╝██╔═══██╗██╔══██╗██║ ██╔╝██╔════╝██╔════╝██╔══██╗
@@ -223,8 +222,6 @@ Expected. See the "Verification" section. Use `tcpdump` to see the truth.
 <div align="center">
 
 **Developed by [staatsrat](https://github.com/staatsrat)**
-
-Stars are welcome — they help the project grow.
 
 </div>
 ```
