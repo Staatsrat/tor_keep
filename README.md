@@ -10,7 +10,6 @@
 
 **Lock down your Linux host. All TCP and DNS through Tor. IPv6 and UDP rejected. No cleartext, ever.**
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-7D4698.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-68B030.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Tor](https://img.shields.io/badge/Tor-7D4698.svg?style=for-the-badge&logo=torproject&logoColor=white)](https://www.torproject.org/)
 [![Platform: Linux](https://img.shields.io/badge/Platform-Linux-68B030.svg?style=for-the-badge&logo=linux&logoColor=white)](https://www.kernel.org/)
