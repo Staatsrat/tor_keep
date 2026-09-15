@@ -224,4 +224,3 @@ Expected. See the "Verification" section. Use `tcpdump` to see the truth.
 **Developed by [staatsrat](https://github.com/staatsrat)**
 
 </div>
-```
