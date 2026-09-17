@@ -1,13 +1,4 @@
 #!/usr/bin/env python3
-"""
-torkeep - Transparent Tor gateway for Linux with fail-closed kill switch.
-
-Routes all TCP and DNS traffic through Tor at the kernel level using
-nftables, blocks IPv6 and UDP, and continuously monitors for leaks by
-tailing kernel logs for blocked packets.
-
-License: GPL-3.0-or-later
-"""
 
 import argparse
 import atexit
