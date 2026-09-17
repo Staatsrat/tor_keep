@@ -48,7 +48,7 @@ cleartext.
 - **Clean rollback** — `Ctrl+C` removes everything, no leftover rules,
   no stale tables, no surprises
 - **No telemetry, no logs, no data collection**
-- **Small UI at runtime.
+- **UI** Small UI at runtime.
 
 ---
 
