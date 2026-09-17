@@ -19,7 +19,7 @@
 
 ## What is torkeep?
 
-**torkeep** is a single-host transparent Tor gateway for Linux. It forces
+**torkeep** is a single-host Tor gateway for Linux. It forces
 all TCP and DNS traffic through Tor at the kernel level using nftables,
 hard-blocks IPv6 and UDP to prevent leaks, and runs a fail-closed kill
 switch that stops all network access the moment Tor dies.
@@ -48,6 +48,7 @@ cleartext.
 - **Clean rollback** — `Ctrl+C` removes everything, no leftover rules,
   no stale tables, no surprises
 - **No telemetry, no logs, no data collection**
+- ** Small UI at runtime.
 
 ---
 
